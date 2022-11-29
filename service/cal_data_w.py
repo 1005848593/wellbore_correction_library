@@ -145,7 +145,7 @@ if __name__ == '__main__':
 
             newline = else_information()  # 设置最后两行信息
             write_f.writelines(newline)
-
+        # 1
         # 写prop文件 参数为地层电阻率，泥浆电阻率，井筒半径
         #wirte_prop.write(0.5, 2.0, 0.05)
         # shutil.copyfile(r'C:\\Users\\Lijing\\Desktop\\wellbore_correction_library\\service\\test.prop',
